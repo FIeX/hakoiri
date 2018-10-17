@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "hakoiri.data.unityweb",
+"asmCodeUrl": "hakoiri.asm.code.unityweb",
+"asmMemoryUrl": "hakoiri.asm.memory.unityweb",
+"asmFrameworkUrl": "hakoiri.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
